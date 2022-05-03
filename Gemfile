@@ -1,12 +1,20 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
-gem "jekyll", "~> 4.1.1"
 
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
-end
+gemspec
+# commenting below to remove dependency with "github-pages" 
+# gem "github-pages", group: :jekyll_plugins
 
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
 
+# https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
+# When running locally, we run into the following error —
+# `require': cannot load such file -- webrick (LoadError)
+# adding this avoids it
+gem "webrick"
 
-gem "webrick", "~> 1.7"
+# adding the following gems to support removal of "github-pages" dependency
+gem "jemoji"
+gem "kramdown-parser-gfm"
