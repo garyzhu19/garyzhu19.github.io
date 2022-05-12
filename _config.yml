@@ -1,6 +1,6 @@
 title: Gary Zhu
 logo: /assets/img/logo.png
-email: garyzhu19@gmail.com
+email: Garyzhu19@gmail.com
 description: 
 show_downloads: false
 google_analytics: UA-108144808-1
@@ -13,13 +13,11 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
   - name: GitHub
-    link: https://github.com/BDHU
-  - name: Twitter
-    link: https://twitter.com/BodunHu
-  - name: Blog
-    link: https://www.bodunhu.com/blog/
-  - name: Project Repository
-    link: https://github.com/BDHU/minimalist
+    link: https://github.com/garyzhu19
+  - name: Linkedin
+    link: https://www.linkedin.com/in/zhu-gary/
+  - name: Resume
+    link: https://drive.google.com/file/d/1O9LoHrKwPpOLL8uQZdlF98dJB9MkgRoS/view?usp=sharing
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
