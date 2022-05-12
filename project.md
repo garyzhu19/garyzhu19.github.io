@@ -15,8 +15,8 @@ layout: default
 
 *	Implemented SRP and EDF with CBS Server task schedulers in C with [FreeRTOS](https://www.freertos.org/) as the base code.
 *	Collaborated with other teammates on GitLab for implementation strategies and code reviews to ensure efficient and correct implementations.
-*	Documented the entire code base with Doxygen to verify the code is well documented.
-*	Coded with MISRA C:2012 coding standard to validate code is safely implemented.
+*	Documented the entire code base with [Doxygen](https://www.doxygen.nl/) to verify the code is well documented.
+*	Coded with [MISRA C:2012](https://en.wikipedia.org/wiki/MISRA_C) coding standard to validate code is safely implemented.
 
 ### MNIST Database Classifiers
 
