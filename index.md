@@ -2,12 +2,16 @@
 layout: default
 ---
 
+# About Me
+
+Ever since competing in highschool robotics, I became passionate about technology and innovation. The competition made me realize how much I love technology and how interesting of a career it is.
+
+I recently graudated with a Bachelor of Applied Science (Electrical Engineering) with Co-Op experience from UBC.
+
+Projects I have completed during school are found in projects page below. 
+[Link to Projects](./project.html).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-Teste
-Test 
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
