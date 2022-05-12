@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Projects
-
-_yay_
+## Hobbies
 
 [back](./)
