@@ -9,7 +9,7 @@ layout: default
 *	Constructed a robot with off the shelf (OTS) CNC machine parts to efficiently and quantitively evaluate products to ensure performance is within specifications.
 *	Programmed a robot using C++, providing intuitive controls to systematically test products.
 *	Reprogrammed a [3D Multi-Touch Matrix](https://www.tangio.ca/multi-touch-neo-sensing) (touch pad with force detection) using C++, providing higher resolution and more data visualization features.
-*	Created a user friendly interface application to control and build tests for inhouse testing robot.
+*	Created a user friendly graphic user interface with C++ (QT Library), to control and build tests for inhouse testing robot.
 
 ### Computer Aid Design Operator (Jan 2019 - Sep 2019, Canadian Circuits Inc, Surrey)
 
